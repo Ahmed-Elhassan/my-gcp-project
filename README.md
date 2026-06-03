@@ -1,4 +1,4 @@
-# my-gcp-project
+# Deploy a web App on GCP using Terraform & Kubernetes
 
 ## ãÇ åæ åĞÇ ÇáãÔÑæÚ¿
 ãÔÑæÚ áÅäÔÇÁ æÅÏÇÑÉ infrastructure Úáì Google Cloud Platform
