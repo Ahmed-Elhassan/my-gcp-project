@@ -11,3 +11,7 @@ provider "google" {
   project = "your-project-id"
   region  = "us-central1"
 }
+resource "google_storage_bucket" "my_bucket" {
+  name     = "my-gcp-project-bucket"
+  location = "US"
+}
