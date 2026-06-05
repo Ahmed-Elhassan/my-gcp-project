@@ -15,3 +15,6 @@ resource "google_storage_bucket" "my_bucket" {
   name     = "my-gcp-project-bucket"
   location = "US"
 }
+resource "google_compute_network" "my_network" {
+  name = "my-gcp-network"
+}
